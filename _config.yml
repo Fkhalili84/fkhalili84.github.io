@@ -107,16 +107,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Poorrang Atashi"
+  name             : "fatemeh khalili"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : I'm the best student.
-  location         : "تهران"
-  email            : sauleh@gmail.com
-  twitter: sauleh_e
-  linkedin: sauleh
+  location         : "tehran"
+  email            : fatemeh05khalili84@gmail.com
+  twitter: none
+  linkedin: none
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  github: f_khalili
+  instagram: _fatemeh_khlili_
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
