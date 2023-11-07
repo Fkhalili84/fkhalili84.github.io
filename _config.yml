@@ -20,7 +20,7 @@ locale                   : "en-US"
 title                    : "fatemeh khalili"
 title_separator          : "-"
 name                     : "fatemeh" 
-description              : "Welcome to my web site."
+description              : "Hello welcom to my website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -84,9 +84,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : none
+  username               : fatemeh.khalili
 facebook:
-  username               : none 
+  username               : fatemeh.khalili
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "fatemeh khalili"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "c:\Picsart_23-08-30_15-02-03-540"
   bio              : I'm eager to learn.
   location         : "tehran"
   email            : fatemeh05khalili84@gmail.com
