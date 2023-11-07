@@ -1,23 +1,20 @@
 ---
 layout: posts
-title: مصاحبه با آقای بیات‌خانی
+title: the summer of 2023
 ---
 
-## This is my team at Microsoft
-People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
-
-[my favorite website](http://www.google.com)
-
-kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
-kfajdskfajsdf sakd fjksad jfksdj fksdj f
+## How does it went 
+Practical experiences:
+- RUNNING
+- CAMPING
 
 
 
-![alt text](../assets/images/grouppic.jpg "Team Picture")
+[my favorite website](http://www.youtub.com) 
+
+
+
+![alt text](../assets/_posts/20230923_124056.jpg)
 
 ---
-**Test**: This is atest
+

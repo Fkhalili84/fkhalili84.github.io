@@ -1,8 +1,8 @@
 ---
 layout: posts
-title: در کلاس چه گذشت
+title: book that I heve read recently
 ---
 
-- We wrote some code
-- We built our website
-- We pushed
+- Pride And Prejudice
+- Becoming
+- The Book Thief

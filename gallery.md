@@ -19,5 +19,5 @@ gallery:
     image_path: /assets/images/IMG_20210616_233545_534.jpg
 ---
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery caption="This is my favorite little gallery." %}
 
