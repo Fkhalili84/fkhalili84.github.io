@@ -4,7 +4,7 @@ title: nice vibe
 ---
 
 
-
+<body>
 <h1 style="text-align: center; font-family: Tahoma;
 color: rgb(241, 31, 31);background-color: rgba(116, 243, 91, 0.658);">Tree</h1>
 <br>
@@ -67,4 +67,4 @@ color: rgb(241, 31, 31);background-color: rgba(116, 243, 91, 0.658);">Tree</h1>
 با دستور ترتل در پایتون
 </div>
 
-
+</body>
