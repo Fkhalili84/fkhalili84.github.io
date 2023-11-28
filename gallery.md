@@ -21,9 +21,13 @@ gallery:
     title: "Image 3 title caption"
   - url: /assets/images/4.jpg 
     image_path: /assets/images/OIG4.jpg
+    alt: "placeholder image 4"
+    title: "Image 4 title caption"
     - url: /assets/images/5.jpg 
     image_path: /assets/images/OIG5.jpg
+    alt: "placeholder image 5"
+    title: "Image 5 title caption"
 ---
 
-{% include gallery caption="This is my favorite little gallery." %}
+{% include gallery caption="For the last two pictures I told AI to picture Mount Persepolis during its glory time when people and kings with their beautiful and ancient cloths in ceremonies." %}
 
