@@ -17,6 +17,10 @@ gallery:
     title: "Image 2 title caption"
   - url: /assets/images/3.jpg
     image_path: /assets/images/IMG_20210616_233545_534.jpg
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/images/4.jpg 
+    image_path: /assets/images/OIG4.jpg
 ---
 
 {% include gallery caption="This is my favorite little gallery." %}
