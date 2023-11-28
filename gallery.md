@@ -21,6 +21,8 @@ gallery:
     title: "Image 3 title caption"
   - url: /assets/images/4.jpg 
     image_path: /assets/images/OIG4.jpg
+    - url: /assets/images/5.jpg 
+    image_path: /assets/images/OIG5.jpg
 ---
 
 {% include gallery caption="This is my favorite little gallery." %}
