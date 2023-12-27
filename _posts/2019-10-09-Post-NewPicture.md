@@ -44,4 +44,4 @@ Welcome to the Football School blog! In this Django project, we're building a pl
    - Function: If the request method is POST, the entered data is received as a form and, if valid, saved to the database for adding or updating a blog post.
 
 Feel free to explore our Football School blog and stay tuned for the latest updates and insights!<br>
-<a herf="http://fkhalili84.pythonanywhere.com/">football</a>
+<a herf="http://fkhalili84.pythonanywhere.com">football</a>
